@@ -68,7 +68,7 @@ const customers = [
     id: '13D07535-C59E-4157-A011-F8D2EF4E0CBB',
     name: 'Jirapong Kongpet',
     email: 'jirapongkongpet@gmail.com',
-    image_url: '/customers/balazs-orban.png',
+    image_url: '/customers/jirapong.jpg',
   },
 ];
 
